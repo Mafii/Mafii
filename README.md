@@ -7,4 +7,4 @@
 - ☝️ I used to be somewhat active on [StackOverflow](https://stackoverflow.com/users/5962841/mafii)
 - 👨‍🔬 One of my favorite projects is/was a [Lambda Calculus Quasi Quoter](https://github.com/Mafii/mafi-lambda-calculus) for Haskell
 - 🧑‍🎓 I'm currently doing my bachelor's degree in part time at [OST](https://www.ost.ch/)
-- 🏢 My day-to-day work is mostly about web servers, build infrastructure and software deployement and installation
+- 🏢 My day-to-day work is mostly about web servers, build infrastructure and software deployment and installation
