@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧑‍💻 I mostly enjoy coding in C#, Haskell and Rust, but I've used a dozen of other languages over the last few years
+- 🧑‍💻 I mostly enjoy coding in C#, Haskell and Rust, but I've used about a dozen of other languages over the last few years
 - 🔭 I'm currently working on a rust implementation for [YarnSpinner](https://github.com/Mafii/rusty-yarn-spinner)
 - 😀 I'm a functional programming enthusiast
 - 🎨 I'm a huge fan of (https://github.com/polyadic/funcky)[Funcky] (and [Funcky.DiscriminatedUnion](https://github.com/polyadic/funcky-discriminated-union))
