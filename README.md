@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧑‍💻 I mostly enjoy coding in C#, Haskell and Rust, but I've used about a dozen of other languages over the last few years
+- 🧑‍💻 I mostly enjoy coding in C#, Haskell and Rust, but I've used about a dozen of other languages over the last decade
 - 📃 When I find enough time, I try to contribute to [Typst](https://github.com/typst/typst)
 - 🔭 I did some work on a rust implementation of a game dialog system for the `Yarn` language, [Yarn Slinger](https://github.com/yarn-slinger/yarn-slinger)
 - 😀 I'm a functional programming enthusiast
